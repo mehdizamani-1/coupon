@@ -1,0 +1,42 @@
+
+
+
+
+.header,
+.nav-sidebar:hover::-webkit-scrollbar-thumb,
+.card-title:before,.nav-pills .nav-link.active, .nav-pills .nav-link:hover ,.modal-header{
+     background: rgb(85, 76, 156);
+}
+.nav-pills .nav-link.active, .nav-pills .nav-link:hover  {
+     border-bottom: 1px solid rgb(85, 76, 156);
+}
+
+
+.nav-sidebar .nav-bar li a.active, .nav-sidebar .nav-bar li a:hover,
+.nav-sidebar .nav-bar li.sub-list:hover:before,
+.nav-sidebar .nav-bar li.sub-list.sub-menu-show>a,
+.nav-sidebar .nav-bar li.sub-list:hover:before,
+.nav-sidebar .nav-bar li.sub-list.sub-menu-show:before,.search-form button {
+     color: rgb(33, 194, 255);
+}
+
+
+
+.nav-sidebar::-webkit-scrollbar-thumb,
+.sidebar-right:before,
+.sidebar-right {
+     background: #fff;
+}
+
+
+
+.header a,
+.close-nav-right,
+.nav-sidebar,.search-icon,.modal-header,.modal-header .close {
+     color: #fff;
+}
+
+
+.nav-sidebar .nav-bar li.sub-list:before {
+     color: #7b7b7b;
+}

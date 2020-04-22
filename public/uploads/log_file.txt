@@ -1,0 +1,1962 @@
+Undefined offset: 1 : line:137 , date: 2019-12-31 06:59:05; filename: 4_5767208546638760101.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 07:00:32; filename: 4_5767208546638760101.csv; row: ; 
+
+Undefined offset: 1 : line:136 , date: 2019-12-31 07:04:14; filename: 4_5767208546638760101.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 09:33:30; filename: shiraz_2019124.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 09:47:19; filename: shiraz_2019125.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 09:48:40; filename: shiraz_2019126.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 09:48:40; filename: shirvan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 09:48:40; filename: someh-sara_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 09:48:40; filename: tabas_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 09:48:40; filename: tabriz_2019127.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 09:48:40; filename: tabriz_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 09:48:40; filename: taleqan_20191214.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 09:51:45; filename: tehran_2019121.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 09:58:08; filename: tehran_20191129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 10:04:49; filename: tehran_20191130.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 10:18:59; filename: shiraz_2019124.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 10:19:28; filename: shiraz_2019125.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 10:19:31; filename: shiraz_2019126.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 10:19:31; filename: shirvan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 10:19:31; filename: someh-sara_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 10:19:31; filename: tabas_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 10:19:31; filename: tabriz_2019127.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 10:19:31; filename: tabriz_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 10:19:31; filename: taleqan_20191214.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 10:19:37; filename: tehran_2019121.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 10:19:48; filename: tehran_20191129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 10:20:00; filename: tehran_20191130.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 10:40:55; filename: tehran_20191221.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 10:57:48; filename: shiraz_2019124.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 10:58:18; filename: shiraz_2019125.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 10:58:21; filename: shiraz_2019126.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 10:58:21; filename: shirvan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 10:58:21; filename: someh-sara_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 10:58:21; filename: tabas_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 10:58:21; filename: tabriz_2019127.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 10:58:21; filename: tabriz_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 10:58:21; filename: taleqan_20191214.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 10:58:28; filename: tehran_2019121.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 10:58:40; filename: tehran_20191129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 10:58:55; filename: tehran_20191130.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 10:59:38; filename: tehran_20191221.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 11:00:13; filename: tehran_20191222.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 11:17:49; filename: tehran_20191223.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 11:26:03; filename: tehran_20191224.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 11:41:33; filename: nowshahr_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 11:41:33; filename: nowshahr_20191217.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 11:41:33; filename: nur_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 11:41:33; filename: nurabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 11:41:33; filename: qaemshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 11:41:33; filename: qazvin_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 11:41:33; filename: qeshm_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 11:41:33; filename: qeydar_20191214.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 11:44:56; filename: qom_2019128.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 11:45:51; filename: qom_2019129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 11:45:51; filename: qorveh_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 11:45:51; filename: rasht_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 11:45:51; filename: shahrekord_20191213.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 11:45:51; filename: shahrekord_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 11:45:51; filename: abadeh_20191129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 11:53:50; filename: ahvaz_2019126.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 12:00:37; filename: ahvaz_2019127.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:00:37; filename: aliabad-katul_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:00:37; filename: falavarjan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:00:37; filename: farrokhshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:00:37; filename: ferdows_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:00:37; filename: fereydunkenar_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:00:37; filename: fuman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:00:37; filename: garmsar_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:00:37; filename: ghayen_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:00:38; filename: golpayegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:00:38; filename: gomishan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:00:38; filename: gonabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:00:38; filename: gonbad-kavus_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:00:38; filename: gorgan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:04; filename: nowshahr_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:04; filename: nowshahr_20191217.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:04; filename: nur_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:04; filename: nurabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:04; filename: qaemshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:04; filename: qazvin_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:04; filename: qeshm_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:04; filename: qeydar_20191214.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 12:28:11; filename: qom_2019128.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 12:28:15; filename: qom_2019129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:15; filename: qorveh_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:15; filename: rasht_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:15; filename: shahrekord_20191213.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:15; filename: shahrekord_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:15; filename: abadeh_20191129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:31; filename: ahvaz_2019126.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 12:28:47; filename: ahvaz_2019127.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:47; filename: aliabad-katul_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:47; filename: falavarjan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:47; filename: farrokhshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:47; filename: ferdows_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:47; filename: fereydunkenar_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:47; filename: fuman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:47; filename: garmsar_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:47; filename: ghayen_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:47; filename: golpayegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:47; filename: gomishan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:47; filename: gonabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:47; filename: gonbad-kavus_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:28:47; filename: gorgan_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 12:41:39; filename: isfahan_2019126.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 12:41:39; filename: kangavar_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 13:01:05; filename: karaj_2019121.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:03:55; filename: nowshahr_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:03:56; filename: nowshahr_20191217.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:03:56; filename: nur_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:03:56; filename: nurabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:03:56; filename: qaemshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:03:56; filename: qazvin_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:03:56; filename: qeshm_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:03:56; filename: qeydar_20191214.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 13:04:03; filename: qom_2019128.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 13:04:07; filename: qom_2019129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:04:07; filename: qorveh_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:04:07; filename: rasht_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:04:07; filename: shahrekord_20191213.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:04:07; filename: shahrekord_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:04:07; filename: abadeh_20191129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:04:22; filename: ahvaz_2019126.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 13:04:37; filename: ahvaz_2019127.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:04:37; filename: aliabad-katul_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:04:37; filename: falavarjan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:04:37; filename: farrokhshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:04:37; filename: ferdows_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:04:37; filename: fereydunkenar_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:04:37; filename: fuman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:04:37; filename: garmsar_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:04:37; filename: ghayen_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:04:37; filename: golpayegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:04:37; filename: gomishan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:04:37; filename: gonabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:04:37; filename: gonbad-kavus_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:04:37; filename: gorgan_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 13:05:28; filename: isfahan_2019126.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:05:28; filename: kangavar_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 13:06:09; filename: karaj_2019121.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:27:52; filename: karaj_2019122.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:38:18; filename: nowshahr_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:38:18; filename: nowshahr_20191217.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:38:18; filename: nur_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:38:18; filename: nurabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:38:18; filename: qaemshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:38:18; filename: qazvin_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:38:18; filename: qeshm_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:38:18; filename: qeydar_20191214.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 13:38:25; filename: qom_2019128.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 13:38:29; filename: qom_2019129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:38:29; filename: qorveh_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:38:29; filename: rasht_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:38:29; filename: shahrekord_20191213.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:38:29; filename: shahrekord_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:38:29; filename: abadeh_20191129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:38:48; filename: ahvaz_2019126.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 13:39:03; filename: ahvaz_2019127.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:39:03; filename: aliabad-katul_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:39:03; filename: falavarjan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:39:03; filename: farrokhshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:39:03; filename: ferdows_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:39:03; filename: fereydunkenar_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:39:03; filename: fuman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:39:03; filename: garmsar_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:39:04; filename: ghayen_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:39:04; filename: golpayegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:39:04; filename: gomishan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:39:04; filename: gonabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:39:04; filename: gonbad-kavus_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:39:04; filename: gorgan_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 13:40:06; filename: isfahan_2019126.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:40:06; filename: kangavar_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 13:40:50; filename: karaj_2019121.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 13:41:43; filename: karaj_2019122.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 13:54:22; filename: karaj_2019123.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:11:51; filename: nowshahr_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:11:51; filename: nowshahr_20191217.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:11:51; filename: nur_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:11:51; filename: nurabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:11:51; filename: qaemshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:11:51; filename: qazvin_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:11:51; filename: qeshm_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:11:51; filename: qeydar_20191214.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 14:11:59; filename: qom_2019128.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 14:12:03; filename: qom_2019129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:12:03; filename: qorveh_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:12:03; filename: rasht_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:12:03; filename: shahrekord_20191213.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:12:03; filename: shahrekord_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:12:03; filename: abadeh_20191129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:12:21; filename: ahvaz_2019126.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 14:12:37; filename: ahvaz_2019127.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:12:37; filename: aliabad-katul_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:12:37; filename: falavarjan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:12:37; filename: farrokhshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:12:37; filename: ferdows_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:12:37; filename: fereydunkenar_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:12:37; filename: fuman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:12:37; filename: garmsar_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:12:37; filename: ghayen_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:12:37; filename: golpayegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:12:37; filename: gomishan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:12:37; filename: gonabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:12:37; filename: gonbad-kavus_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:12:37; filename: gorgan_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 14:13:41; filename: isfahan_2019126.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:13:41; filename: kangavar_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 14:14:36; filename: karaj_2019121.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:15:45; filename: karaj_2019122.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 14:16:52; filename: karaj_2019123.csv; 
+
+Undefined offset: 1 : line:137 , date: 2019-12-31 14:22:46; filename: karaj_2019124.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:22:46; filename: kashan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:22:46; filename: kelachay_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:22:46; filename: kerman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:22:46; filename: kermanshah_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:22:47; filename: kish_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:22:47; filename: kordkuy_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:22:47; filename: kuhdasht_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:22:47; filename: lahijan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:22:47; filename: langarud_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:22:47; filename: lordegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:22:47; filename: mahabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:22:47; filename: mahalat_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:22:47; filename: mahmudabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:22:47; filename: maku_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:22:47; filename: malayer_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:22:47; filename: maragheh_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:22:47; filename: marand_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:22:47; filename: marand_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:22:48; filename: marivan_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2019-12-31 14:22:48; filename: masal_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:01:22; filename: mashhad_2019121.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:11:19; filename: nowshahr_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:11:19; filename: nowshahr_20191217.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:11:19; filename: nur_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:11:19; filename: nurabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:11:19; filename: qaemshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:11:19; filename: qazvin_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:11:19; filename: qeshm_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:11:19; filename: qeydar_20191214.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 06:11:29; filename: qom_2019128.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 06:11:33; filename: qom_2019129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:11:33; filename: qorveh_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:11:33; filename: rasht_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:11:33; filename: shahrekord_20191213.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:11:33; filename: shahrekord_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:11:33; filename: abadeh_20191129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:11:53; filename: ahvaz_2019126.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 06:12:10; filename: ahvaz_2019127.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:12:10; filename: aliabad-katul_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:12:10; filename: falavarjan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:12:10; filename: farrokhshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:12:10; filename: ferdows_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:12:10; filename: fereydunkenar_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:12:10; filename: fuman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:12:10; filename: garmsar_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:12:10; filename: ghayen_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:12:10; filename: golpayegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:12:10; filename: gomishan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:12:10; filename: gonabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:12:10; filename: gonbad-kavus_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:12:10; filename: gorgan_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 06:13:30; filename: isfahan_2019126.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:13:30; filename: kangavar_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 06:14:38; filename: karaj_2019121.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:15:50; filename: karaj_2019122.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 06:17:02; filename: karaj_2019123.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 06:18:08; filename: karaj_2019124.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:18:08; filename: kashan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:18:08; filename: kelachay_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:18:08; filename: kerman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:18:08; filename: kermanshah_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:18:08; filename: kish_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:18:08; filename: kordkuy_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:18:08; filename: kuhdasht_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:18:08; filename: lahijan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:18:08; filename: langarud_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:18:08; filename: lordegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:18:08; filename: mahabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:18:08; filename: mahalat_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:18:08; filename: mahmudabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:18:08; filename: maku_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:18:08; filename: malayer_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:18:08; filename: maragheh_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:18:08; filename: marand_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:18:08; filename: marand_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:18:08; filename: marivan_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:18:08; filename: masal_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:18:36; filename: mashhad_2019121.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:39:29; filename: nowshahr_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:39:29; filename: nowshahr_20191217.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:39:29; filename: nur_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:39:29; filename: nurabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:39:29; filename: qaemshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:39:29; filename: qazvin_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:39:29; filename: qeshm_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:39:29; filename: qeydar_20191214.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 06:39:37; filename: qom_2019128.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 06:39:40; filename: qom_2019129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:39:40; filename: qorveh_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:39:40; filename: rasht_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:39:40; filename: shahrekord_20191213.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:39:40; filename: shahrekord_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:39:40; filename: abadeh_20191129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:39:57; filename: ahvaz_2019126.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 06:40:12; filename: ahvaz_2019127.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:40:12; filename: aliabad-katul_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:40:12; filename: falavarjan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:40:12; filename: farrokhshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:40:12; filename: ferdows_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:40:12; filename: fereydunkenar_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:40:12; filename: fuman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:40:12; filename: garmsar_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:40:12; filename: ghayen_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:40:12; filename: golpayegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:40:12; filename: gomishan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:40:12; filename: gonabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:40:12; filename: gonbad-kavus_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:40:12; filename: gorgan_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 06:41:12; filename: isfahan_2019126.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:41:12; filename: kangavar_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 06:42:04; filename: karaj_2019121.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:43:11; filename: karaj_2019122.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 06:44:19; filename: karaj_2019123.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 06:45:19; filename: karaj_2019124.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:45:19; filename: kashan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:45:19; filename: kelachay_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:45:19; filename: kerman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:45:19; filename: kermanshah_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:45:19; filename: kish_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:45:19; filename: kordkuy_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:45:19; filename: kuhdasht_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:45:19; filename: lahijan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:45:19; filename: langarud_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:45:19; filename: lordegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:45:19; filename: mahabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:45:19; filename: mahalat_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:45:19; filename: mahmudabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:45:20; filename: maku_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:45:20; filename: malayer_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:45:20; filename: maragheh_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:45:20; filename: marand_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:45:20; filename: marand_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:45:20; filename: marivan_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:45:20; filename: masal_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:45:47; filename: mashhad_2019121.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:06; filename: nowshahr_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:06; filename: nowshahr_20191217.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:06; filename: nur_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:06; filename: nurabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:06; filename: qaemshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:06; filename: qazvin_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:06; filename: qeshm_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:06; filename: qeydar_20191214.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 06:56:14; filename: qom_2019128.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 06:56:17; filename: qom_2019129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:17; filename: qorveh_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:18; filename: rasht_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:18; filename: shahrekord_20191213.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:18; filename: shahrekord_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:18; filename: abadeh_20191129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:34; filename: ahvaz_2019126.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 06:56:50; filename: ahvaz_2019127.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:50; filename: aliabad-katul_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:50; filename: falavarjan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:50; filename: farrokhshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:50; filename: ferdows_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:50; filename: fereydunkenar_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:50; filename: fuman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:50; filename: garmsar_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:50; filename: ghayen_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:50; filename: golpayegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:50; filename: gomishan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:50; filename: gonabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:50; filename: gonbad-kavus_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:56:50; filename: gorgan_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 06:57:48; filename: isfahan_2019126.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:57:48; filename: kangavar_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 06:58:38; filename: karaj_2019121.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 06:59:37; filename: karaj_2019122.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 07:00:40; filename: karaj_2019123.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 07:01:39; filename: karaj_2019124.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:01:39; filename: kashan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:01:39; filename: kelachay_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:01:39; filename: kerman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:01:39; filename: kermanshah_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:01:39; filename: kish_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:01:39; filename: kordkuy_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:01:39; filename: kuhdasht_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:01:39; filename: lahijan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:01:39; filename: langarud_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:01:39; filename: lordegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:01:39; filename: mahabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:01:39; filename: mahalat_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:01:39; filename: mahmudabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:01:39; filename: maku_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:01:39; filename: malayer_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:01:39; filename: maragheh_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:01:39; filename: marand_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:01:39; filename: marand_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:01:39; filename: marivan_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:01:39; filename: masal_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:02:06; filename: mashhad_2019121.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:29:35; filename: nowshahr_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:29:35; filename: nowshahr_20191217.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:29:35; filename: nur_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:29:35; filename: nurabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:29:35; filename: qaemshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:29:35; filename: qazvin_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:29:35; filename: qeshm_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:29:35; filename: qeydar_20191214.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 07:29:42; filename: qom_2019128.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 07:29:46; filename: qom_2019129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:29:46; filename: qorveh_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:29:46; filename: rasht_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:29:46; filename: shahrekord_20191213.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:29:46; filename: shahrekord_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:29:46; filename: abadeh_20191129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:30:02; filename: ahvaz_2019126.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 07:30:17; filename: ahvaz_2019127.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:30:17; filename: aliabad-katul_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:30:17; filename: falavarjan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:30:17; filename: farrokhshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:30:17; filename: ferdows_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:30:17; filename: fereydunkenar_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:30:17; filename: fuman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:30:17; filename: garmsar_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:30:17; filename: ghayen_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:30:17; filename: golpayegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:30:17; filename: gomishan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:30:17; filename: gonabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:30:17; filename: gonbad-kavus_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:30:17; filename: gorgan_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 07:31:15; filename: isfahan_2019126.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:31:15; filename: kangavar_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 07:32:08; filename: karaj_2019121.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:33:17; filename: karaj_2019122.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 07:34:27; filename: karaj_2019123.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 07:35:36; filename: karaj_2019124.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:35:36; filename: kashan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:35:36; filename: kelachay_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:35:36; filename: kerman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:35:36; filename: kermanshah_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:35:36; filename: kish_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:35:36; filename: kordkuy_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:35:36; filename: kuhdasht_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:35:36; filename: lahijan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:35:36; filename: langarud_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:35:36; filename: lordegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:35:36; filename: mahabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:35:36; filename: mahalat_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:35:36; filename: mahmudabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:35:36; filename: maku_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:35:36; filename: malayer_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:35:36; filename: maragheh_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:35:36; filename: marand_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:35:36; filename: marand_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:35:36; filename: marivan_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:35:36; filename: masal_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:36:07; filename: mashhad_2019121.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:12; filename: nowshahr_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:12; filename: nowshahr_20191217.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:12; filename: nur_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:12; filename: nurabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:12; filename: qaemshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:12; filename: qazvin_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:12; filename: qeshm_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:12; filename: qeydar_20191214.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 07:44:19; filename: qom_2019128.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 07:44:23; filename: qom_2019129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:23; filename: qorveh_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:23; filename: rasht_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:23; filename: shahrekord_20191213.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:23; filename: shahrekord_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:23; filename: abadeh_20191129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:41; filename: ahvaz_2019126.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 07:44:57; filename: ahvaz_2019127.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:57; filename: aliabad-katul_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:57; filename: falavarjan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:57; filename: farrokhshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:57; filename: ferdows_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:57; filename: fereydunkenar_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:57; filename: fuman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:57; filename: garmsar_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:57; filename: ghayen_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:57; filename: golpayegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:57; filename: gomishan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:57; filename: gonabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:57; filename: gonbad-kavus_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:44:57; filename: gorgan_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 07:45:55; filename: isfahan_2019126.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:45:55; filename: kangavar_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 07:46:45; filename: karaj_2019121.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:47:46; filename: karaj_2019122.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 07:48:55; filename: karaj_2019123.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 07:50:01; filename: karaj_2019124.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:50:01; filename: kashan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:50:01; filename: kelachay_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:50:01; filename: kerman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:50:01; filename: kermanshah_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:50:01; filename: kish_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:50:01; filename: kordkuy_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:50:01; filename: kuhdasht_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:50:01; filename: lahijan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:50:01; filename: langarud_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:50:01; filename: lordegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:50:01; filename: mahabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:50:01; filename: mahalat_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:50:01; filename: mahmudabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:50:01; filename: maku_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:50:01; filename: malayer_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:50:01; filename: maragheh_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:50:01; filename: marand_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:50:01; filename: marand_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:50:01; filename: marivan_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:50:01; filename: masal_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 07:50:30; filename: mashhad_2019121.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:12; filename: nowshahr_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:12; filename: nowshahr_20191217.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:12; filename: nur_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:12; filename: nurabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:12; filename: qaemshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:12; filename: qazvin_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:12; filename: qeshm_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:12; filename: qeydar_20191214.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 08:00:21; filename: qom_2019128.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 08:00:25; filename: qom_2019129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:25; filename: qorveh_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:25; filename: rasht_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:25; filename: shahrekord_20191213.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:25; filename: shahrekord_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:25; filename: abadeh_20191129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:44; filename: ahvaz_2019126.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 08:00:59; filename: ahvaz_2019127.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:59; filename: aliabad-katul_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:59; filename: falavarjan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:59; filename: farrokhshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:59; filename: ferdows_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:59; filename: fereydunkenar_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:59; filename: fuman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:59; filename: garmsar_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:59; filename: ghayen_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:59; filename: golpayegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:59; filename: gomishan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:59; filename: gonabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:59; filename: gonbad-kavus_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:00:59; filename: gorgan_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 08:02:00; filename: isfahan_2019126.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:02:00; filename: kangavar_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 08:02:54; filename: karaj_2019121.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:04:03; filename: karaj_2019122.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 08:05:13; filename: karaj_2019123.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 08:06:16; filename: karaj_2019124.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:06:16; filename: kashan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:06:16; filename: kelachay_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:06:16; filename: kerman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:06:16; filename: kermanshah_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:06:16; filename: kish_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:06:16; filename: kordkuy_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:06:16; filename: kuhdasht_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:06:16; filename: lahijan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:06:16; filename: langarud_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:06:16; filename: lordegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:06:16; filename: mahabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:06:16; filename: mahalat_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:06:16; filename: mahmudabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:06:16; filename: maku_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:06:16; filename: malayer_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:06:16; filename: maragheh_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:06:16; filename: marand_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:06:16; filename: marand_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:06:16; filename: marivan_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:06:16; filename: masal_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:06:45; filename: mashhad_2019121.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:20:34; filename: nowshahr_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:20:34; filename: nowshahr_20191217.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:20:34; filename: nur_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:20:34; filename: nurabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:20:34; filename: qaemshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:20:34; filename: qazvin_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:20:34; filename: qeshm_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:20:34; filename: qeydar_20191214.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 08:20:41; filename: qom_2019128.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 08:20:45; filename: qom_2019129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:20:45; filename: qorveh_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:20:45; filename: rasht_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:20:45; filename: shahrekord_20191213.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:20:45; filename: shahrekord_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:20:45; filename: abadeh_20191129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:21:02; filename: ahvaz_2019126.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 08:21:21; filename: ahvaz_2019127.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:21:21; filename: aliabad-katul_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:21:21; filename: falavarjan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:21:21; filename: farrokhshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:21:21; filename: ferdows_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:21:21; filename: fereydunkenar_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:21:21; filename: fuman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:21:21; filename: garmsar_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:21:21; filename: ghayen_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:21:21; filename: golpayegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:21:21; filename: gomishan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:21:21; filename: gonabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:21:21; filename: gonbad-kavus_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:21:21; filename: gorgan_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 08:22:26; filename: isfahan_2019126.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:22:26; filename: kangavar_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 08:23:21; filename: karaj_2019121.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:24:31; filename: karaj_2019122.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 08:25:42; filename: karaj_2019123.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 08:26:55; filename: karaj_2019124.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:26:55; filename: kashan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:26:55; filename: kelachay_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:26:55; filename: kerman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:26:55; filename: kermanshah_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:26:55; filename: kish_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:26:55; filename: kordkuy_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:26:55; filename: kuhdasht_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:26:55; filename: lahijan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:26:55; filename: langarud_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:26:55; filename: lordegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:26:55; filename: mahabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:26:55; filename: mahalat_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:26:55; filename: mahmudabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:26:55; filename: maku_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:26:55; filename: malayer_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:26:55; filename: maragheh_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:26:55; filename: marand_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:26:55; filename: marand_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:26:55; filename: marivan_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:26:55; filename: masal_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 08:27:25; filename: mashhad_2019121.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:13:48; filename: nowshahr_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:13:48; filename: nowshahr_20191217.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:13:48; filename: nur_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:13:48; filename: nurabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:13:48; filename: qaemshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:13:48; filename: qazvin_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:13:48; filename: qeshm_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:13:48; filename: qeydar_20191214.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 09:13:56; filename: qom_2019128.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 09:13:59; filename: qom_2019129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:13:59; filename: qorveh_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:13:59; filename: rasht_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:13:59; filename: shahrekord_20191213.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:13:59; filename: shahrekord_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:13:59; filename: abadeh_20191129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:14:18; filename: ahvaz_2019126.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 09:14:34; filename: ahvaz_2019127.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:14:34; filename: aliabad-katul_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:14:34; filename: falavarjan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:14:34; filename: farrokhshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:14:34; filename: ferdows_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:14:34; filename: fereydunkenar_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:14:34; filename: fuman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:14:34; filename: garmsar_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:14:34; filename: ghayen_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:14:34; filename: golpayegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:14:34; filename: gomishan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:14:34; filename: gonabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:14:34; filename: gonbad-kavus_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:14:34; filename: gorgan_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 09:15:38; filename: isfahan_2019126.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:15:38; filename: kangavar_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 09:16:33; filename: karaj_2019121.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:17:39; filename: karaj_2019122.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 09:18:53; filename: karaj_2019123.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 09:19:56; filename: karaj_2019124.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:19:56; filename: kashan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:19:56; filename: kelachay_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:19:56; filename: kerman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:19:56; filename: kermanshah_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:19:56; filename: kish_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:19:56; filename: kordkuy_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:19:56; filename: kuhdasht_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:19:56; filename: lahijan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:19:56; filename: langarud_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:19:56; filename: lordegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:19:56; filename: mahabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:19:56; filename: mahalat_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:19:56; filename: mahmudabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:19:56; filename: maku_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:19:56; filename: malayer_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:19:56; filename: maragheh_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:19:56; filename: marand_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:19:56; filename: marand_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:19:56; filename: marivan_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:19:56; filename: masal_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 09:20:24; filename: mashhad_2019121.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 09:22:44; filename: mashhad_20191224.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:27:25; filename: nowshahr_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:27:25; filename: nowshahr_20191217.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:27:25; filename: nur_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:27:25; filename: nurabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:27:25; filename: qaemshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:27:25; filename: qazvin_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:27:25; filename: qeshm_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:27:25; filename: qeydar_20191214.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 10:27:32; filename: qom_2019128.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 10:27:36; filename: qom_2019129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:27:36; filename: qorveh_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:27:36; filename: rasht_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:27:36; filename: shahrekord_20191213.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:27:36; filename: shahrekord_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:27:36; filename: abadeh_20191129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:27:53; filename: ahvaz_2019126.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 10:28:08; filename: ahvaz_2019127.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:28:08; filename: aliabad-katul_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:28:08; filename: falavarjan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:28:08; filename: farrokhshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:28:08; filename: ferdows_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:28:08; filename: fereydunkenar_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:28:08; filename: fuman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:28:08; filename: garmsar_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:28:08; filename: ghayen_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:28:08; filename: golpayegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:28:08; filename: gomishan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:28:08; filename: gonabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:28:08; filename: gonbad-kavus_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:28:08; filename: gorgan_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 10:29:09; filename: isfahan_2019126.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:29:09; filename: kangavar_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 10:30:02; filename: karaj_2019121.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:31:08; filename: karaj_2019122.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 10:32:17; filename: karaj_2019123.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 10:33:24; filename: karaj_2019124.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:33:24; filename: kashan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:33:24; filename: kelachay_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:33:24; filename: kerman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:33:24; filename: kermanshah_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:33:24; filename: kish_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:33:24; filename: kordkuy_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:33:24; filename: kuhdasht_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:33:24; filename: lahijan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:33:24; filename: langarud_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:33:24; filename: lordegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:33:24; filename: mahabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:33:24; filename: mahalat_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:33:24; filename: mahmudabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:33:24; filename: maku_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:33:24; filename: malayer_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:33:24; filename: maragheh_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:33:24; filename: marand_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:33:24; filename: marand_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:33:24; filename: marivan_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:33:24; filename: masal_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:33:54; filename: mashhad_2019121.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 10:34:57; filename: mashhad_20191224.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:45:47; filename: nowshahr_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:45:47; filename: nowshahr_20191217.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:45:47; filename: nur_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:45:47; filename: nurabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:45:47; filename: qaemshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:45:47; filename: qazvin_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:45:47; filename: qeshm_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:45:47; filename: qeydar_20191214.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 10:45:54; filename: qom_2019128.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 10:45:58; filename: qom_2019129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:45:58; filename: qorveh_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:45:58; filename: rasht_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:45:58; filename: shahrekord_20191213.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:45:58; filename: shahrekord_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:45:58; filename: abadeh_20191129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:46:15; filename: ahvaz_2019126.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 10:46:31; filename: ahvaz_2019127.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:46:31; filename: aliabad-katul_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:46:31; filename: falavarjan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:46:31; filename: farrokhshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:46:31; filename: ferdows_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:46:31; filename: fereydunkenar_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:46:31; filename: fuman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:46:31; filename: garmsar_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:46:31; filename: ghayen_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:46:31; filename: golpayegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:46:31; filename: gomishan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:46:31; filename: gonabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:46:31; filename: gonbad-kavus_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:46:31; filename: gorgan_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 10:47:36; filename: isfahan_2019126.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:47:36; filename: kangavar_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 10:48:29; filename: karaj_2019121.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:49:37; filename: karaj_2019122.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 10:50:46; filename: karaj_2019123.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 10:51:54; filename: karaj_2019124.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:51:54; filename: kashan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:51:54; filename: kelachay_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:51:54; filename: kerman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:51:54; filename: kermanshah_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:51:54; filename: kish_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:51:54; filename: kordkuy_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:51:54; filename: kuhdasht_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:51:54; filename: lahijan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:51:54; filename: langarud_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:51:54; filename: lordegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:51:54; filename: mahabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:51:54; filename: mahalat_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:51:54; filename: mahmudabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:51:54; filename: maku_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:51:54; filename: malayer_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:51:54; filename: maragheh_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:51:54; filename: marand_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:51:54; filename: marand_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:51:54; filename: marivan_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:51:54; filename: masal_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 10:52:25; filename: mashhad_2019121.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 10:53:36; filename: mashhad_20191224.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:10; filename: nowshahr_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:10; filename: nowshahr_20191217.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:10; filename: nur_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:10; filename: nurabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:10; filename: qaemshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:10; filename: qazvin_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:10; filename: qeshm_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:10; filename: qeydar_20191214.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 11:21:18; filename: qom_2019128.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 11:21:22; filename: qom_2019129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:22; filename: qorveh_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:22; filename: rasht_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:22; filename: shahrekord_20191213.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:22; filename: shahrekord_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:22; filename: abadeh_20191129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:41; filename: ahvaz_2019126.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 11:21:58; filename: ahvaz_2019127.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:58; filename: aliabad-katul_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:58; filename: falavarjan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:58; filename: farrokhshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:58; filename: ferdows_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:58; filename: fereydunkenar_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:58; filename: fuman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:58; filename: garmsar_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:58; filename: ghayen_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:58; filename: golpayegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:58; filename: gomishan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:58; filename: gonabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:58; filename: gonbad-kavus_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:21:58; filename: gorgan_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 11:22:59; filename: isfahan_2019126.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:22:59; filename: kangavar_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 11:23:52; filename: karaj_2019121.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:24:59; filename: karaj_2019122.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 11:26:04; filename: karaj_2019123.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 11:27:12; filename: karaj_2019124.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:27:12; filename: kashan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:27:12; filename: kelachay_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:27:12; filename: kerman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:27:12; filename: kermanshah_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:27:12; filename: kish_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:27:12; filename: kordkuy_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:27:12; filename: kuhdasht_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:27:12; filename: lahijan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:27:12; filename: langarud_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:27:12; filename: lordegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:27:12; filename: mahabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:27:12; filename: mahalat_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:27:12; filename: mahmudabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:27:12; filename: maku_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:27:12; filename: malayer_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:27:12; filename: maragheh_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:27:12; filename: marand_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:27:12; filename: marand_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:27:12; filename: marivan_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:27:12; filename: masal_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 11:27:45; filename: mashhad_2019121.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 11:28:49; filename: mashhad_20191224.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:46:59; filename: nowshahr_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:46:59; filename: nowshahr_20191217.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:46:59; filename: nur_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:46:59; filename: nurabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:46:59; filename: qaemshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:46:59; filename: qazvin_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:46:59; filename: qeshm_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:46:59; filename: qeydar_20191214.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 12:47:07; filename: qom_2019128.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 12:47:11; filename: qom_2019129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:47:11; filename: qorveh_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:47:11; filename: rasht_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:47:11; filename: shahrekord_20191213.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:47:11; filename: shahrekord_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:47:11; filename: abadeh_20191129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:47:27; filename: ahvaz_2019126.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 12:47:46; filename: ahvaz_2019127.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:47:46; filename: aliabad-katul_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:47:46; filename: falavarjan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:47:46; filename: farrokhshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:47:46; filename: ferdows_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:47:46; filename: fereydunkenar_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:47:46; filename: fuman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:47:46; filename: garmsar_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:47:46; filename: ghayen_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:47:46; filename: golpayegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:47:46; filename: gomishan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:47:46; filename: gonabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:47:46; filename: gonbad-kavus_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:47:46; filename: gorgan_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 12:48:48; filename: isfahan_2019126.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:48:48; filename: kangavar_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 12:49:40; filename: karaj_2019121.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:50:47; filename: karaj_2019122.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 12:51:54; filename: karaj_2019123.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 12:53:00; filename: karaj_2019124.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:53:00; filename: kashan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:53:00; filename: kelachay_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:53:00; filename: kerman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:53:00; filename: kermanshah_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:53:00; filename: kish_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:53:00; filename: kordkuy_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:53:00; filename: kuhdasht_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:53:00; filename: lahijan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:53:00; filename: langarud_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:53:00; filename: lordegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:53:00; filename: mahabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:53:00; filename: mahalat_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:53:00; filename: mahmudabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:53:00; filename: maku_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:53:00; filename: malayer_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:53:00; filename: maragheh_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:53:00; filename: marand_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:53:00; filename: marand_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:53:00; filename: marivan_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:53:00; filename: masal_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:53:31; filename: mashhad_2019121.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 12:54:34; filename: mashhad_20191224.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:58:48; filename: nowshahr_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:58:48; filename: nowshahr_20191217.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:58:48; filename: nur_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:58:48; filename: nurabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:58:48; filename: qaemshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:58:48; filename: qazvin_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:58:48; filename: qeshm_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:58:48; filename: qeydar_20191214.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 12:58:57; filename: qom_2019128.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 12:59:00; filename: qom_2019129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:59:00; filename: qorveh_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:59:00; filename: rasht_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:59:00; filename: shahrekord_20191213.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:59:00; filename: shahrekord_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:59:00; filename: abadeh_20191129.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:59:21; filename: ahvaz_2019126.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 12:59:37; filename: ahvaz_2019127.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:59:37; filename: aliabad-katul_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:59:37; filename: falavarjan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:59:37; filename: farrokhshahr_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:59:37; filename: ferdows_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:59:37; filename: fereydunkenar_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:59:37; filename: fuman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:59:37; filename: garmsar_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:59:37; filename: ghayen_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:59:37; filename: golpayegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:59:37; filename: gomishan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:59:37; filename: gonabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:59:37; filename: gonbad-kavus_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 12:59:37; filename: gorgan_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 13:00:37; filename: isfahan_2019126.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 13:00:37; filename: kangavar_20191215.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 13:01:29; filename: karaj_2019121.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 13:02:33; filename: karaj_2019122.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 13:03:42; filename: karaj_2019123.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 13:04:45; filename: karaj_2019124.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 13:04:45; filename: kashan_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 13:04:45; filename: kelachay_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 13:04:45; filename: kerman_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 13:04:45; filename: kermanshah_2019128.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 13:04:45; filename: kish_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 13:04:45; filename: kordkuy_20191214.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 13:04:45; filename: kuhdasht_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 13:04:45; filename: lahijan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 13:04:45; filename: langarud_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 13:04:45; filename: lordegan_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 13:04:45; filename: mahabad_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 13:04:45; filename: mahalat_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 13:04:45; filename: mahmudabad_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 13:04:45; filename: maku_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 13:04:45; filename: malayer_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 13:04:45; filename: maragheh_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 13:04:45; filename: marand_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 13:04:45; filename: marand_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 13:04:45; filename: marivan_20191216.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 13:04:45; filename: masal_20191215.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 13:05:15; filename: mashhad_2019121.csv; 
+
+Undefined offset: 1 : line:137 , date: 2020-01-01 13:06:20; filename: mashhad_20191224.csv; 
+
+Undefined offset: 1 : line:151 , date: 2020-01-01 13:07:05; filename: mashhad_20191225.csv; 
+
